@@ -1,0 +1,9 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url('\\ShanNi01 & English.ttf');
+    color: red !important;
+}
+
+.ShanniFont {
+    font-family: myFirstFont;
+}
